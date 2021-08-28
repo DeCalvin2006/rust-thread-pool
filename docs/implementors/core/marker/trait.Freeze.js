@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["rust_thread_pool"] = [{"text":"impl !Freeze for <a class=\"struct\" href=\"rust_thread_pool/struct.ThreadPool.html\" title=\"struct rust_thread_pool::ThreadPool\">ThreadPool</a>","synthetic":true,"types":["rust_thread_pool::ThreadPool"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

@@ -1,0 +1,4 @@
+var searchIndex = JSON.parse('{\
+"rust_thread_pool":{"doc":"","t":[3,11,11,11,11,11,11,11,11,11,11],"n":["ThreadPool","borrow","borrow_mut","drop","from","into","new","run","try_from","try_into","type_id"],"q":["rust_thread_pool","","","","","","","","","",""],"d":["Thread Pool.","","","Drop the ThreadPool.","","","Creates a thread pool.","Run the given function or closure in the pool.","","",""],"i":[0,1,1,1,1,1,1,1,1,1,1],"f":[null,[[]],[[]],[[]],[[]],[[]],[[["usize",15]],["threadpool",3]],[[]],[[],["result",4]],[[],["result",4]],[[],["typeid",3]]],"p":[[3,"ThreadPool"]]}\
+}');
+if (window.initSearch) {window.initSearch(searchIndex)};
